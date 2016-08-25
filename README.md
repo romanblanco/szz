@@ -5,3 +5,4 @@ Zdroje:
 - http://szz.g6.cz/doku.php?id=temata:main
 
 - http://www.falstad.com/circuit/e-index.html
+
