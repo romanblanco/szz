@@ -21,14 +21,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 markdown: kramdown
 theme: minima
 permalink: none
-
-
- lsi: false
- safe: true
- source: szz
- incremental: false
- highlighter: rouge
- gist:
-   noscript: false
- kramdown:
-   math_engine: mathjax
+baseurl: /szz
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
